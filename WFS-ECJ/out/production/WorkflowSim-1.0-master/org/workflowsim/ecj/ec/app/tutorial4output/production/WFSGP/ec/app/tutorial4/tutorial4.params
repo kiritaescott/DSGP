@@ -1,0 +1,33 @@
+# Copyright 2006 by Sean Luke and George Mason University
+# Licensed under the Academic Free License version 3.0
+# See the file "LICENSE" for more information
+
+parent.0 = ../../gp/koza/koza.params
+
+# the next four items are already defined in koza.params, but we
+# put them here to be clear.
+
+# We have one function set, of class GPFunctionSet
+gp.fs.size = 1
+gp.fs.0 = ec.gp.GPFunctionSet
+# We'll call the function set "f0".
+gp.fs.0.name = f0
+
+# We have six functions in the function set.  They are:
+gp.fs.0.size = 6
+gp.fs.0.func.0 = ec.app.wfsgp.X
+gp.fs.0.func.0.nc = nc0
+gp.fs.0.func.1 = ec.app.wfsgp.Y
+gp.fs.0.func.1.nc = nc0
+gp.fs.0.func.2 = ec.app.wfsgp.TS
+gp.fs.0.func.2.nc = nc0
+gp.fs.0.func.3 = ec.app.wfsgp.Add
+gp.fs.0.func.3.nc = nc2
+gp.fs.0.func.4 = ec.app.wfsgp.Sub
+gp.fs.0.func.4.nc = nc2
+gp.fs.0.func.5 = ec.app.wfsgp.Mul
+gp.fs.0.func.5.nc = nc2
+
+eval.problem = ec.app.wfsgp.MultiValuedRegression
+eval.problem.data = ec.app.wfsgp.DoubleData
+

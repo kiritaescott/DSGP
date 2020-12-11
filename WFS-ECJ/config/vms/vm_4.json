@@ -1,0 +1,8 @@
+{
+    "virtualmachine": [
+        { "name": "small", "ratio": 0.2075895868050217 },
+        { "name": "medium", "ratio": 0.48054680114654125 },
+        { "name": "large", "ratio": 0.7659172723812251 },
+        { "name": "xlarge", "ratio": 0.9649270459987718 }
+    ]
+}

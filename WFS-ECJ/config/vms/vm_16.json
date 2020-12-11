@@ -1,0 +1,20 @@
+{
+    "virtualmachine": [
+        { "name": "small", "ratio": 0.15107537364060253 },
+        { "name": "small", "ratio": 0.051835463854492 },
+        { "name": "small", "ratio": 0.24031821888349925 },
+        { "name": "small", "ratio": 0.08887050344016523 },
+        { "name": "medium", "ratio": 0.40007892606820683 },
+        { "name": "medium", "ratio": 0.3926431738160059 },
+        { "name": "medium", "ratio": 0.40545156420235917 },
+        { "name": "medium", "ratio": 0.29873379686729995 },
+        { "name": "large", "ratio": 0.7282977651524861 },
+        { "name": "large", "ratio": 0.5516527443774581 },
+        { "name": "large", "ratio": 0.6820086306856982 },
+        { "name": "large", "ratio": 0.5595874378451718 },
+        { "name": "x-large", "ratio": 0.9998293211868643 },
+        { "name": "x-large", "ratio": 0.9225186816402796 },
+        { "name": "x-large", "ratio": 0.9377188706407247 },
+        { "name": "x-large", "ratio": 0.8264994781365154 }
+    ]
+}

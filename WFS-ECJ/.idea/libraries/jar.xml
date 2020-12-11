@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="jar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Documents/gitlab-thesis/thesis/wfs-ecj/WorkflowSim-1.0-master/sources/org/workflowsim/ecj/jar" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/Documents/gitlab-thesis/thesis/wfs-ecj/WorkflowSim-1.0-master/sources/org/workflowsim/ecj/jar" />
+    </SOURCES>
+    <jarDirectory url="file://$USER_HOME$/Documents/gitlab-thesis/thesis/wfs-ecj/WorkflowSim-1.0-master/sources/org/workflowsim/ecj/jar" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Documents/gitlab-thesis/thesis/wfs-ecj/WorkflowSim-1.0-master/sources/org/workflowsim/ecj/jar" recursive="false" type="SOURCES" />
+  </library>
+</component>

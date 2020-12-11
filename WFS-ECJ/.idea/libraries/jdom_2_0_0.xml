@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="jdom-2.0.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/WorkflowSim-1.0-master/lib/jdom-2.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WorkflowSim-1.0-master/lib/flanagan.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WorkflowSim-1.0-master/lib/commons-math3-3.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/WorkflowSim-1.0-master/lib/flanagan.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WorkflowSim-1.0-master/lib/commons-math3-3.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
